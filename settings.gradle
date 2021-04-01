@@ -1,0 +1,4 @@
+include ':mylibrary'
+include ':JioHealthDeviceSDK-release'
+include ':app'
+rootProject.name = "My  Ground Application"
